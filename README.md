@@ -1,2 +1,2 @@
 # cutiepie
-Python binding of Qt
+Python binding for Qt
